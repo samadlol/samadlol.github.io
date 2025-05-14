@@ -26,11 +26,13 @@
   },
   "shared": [
     {
-      "id": "miniappdemo:react-native",
-      "name": "react-native",
-      "version": "0.75.4",
       "singleton": true,
       "requiredVersion": "0.75.4",
+      "shareScope": "default",
+      "eager": false,
+      "name": "react-native",
+      "version": "0.75.4",
+      "id": "miniappdemo:react-native",
       "assets": {
         "js": {
           "async": [
@@ -53,14 +55,17 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
-      "id": "miniappdemo:react",
-      "name": "react",
-      "version": "18.3.1",
       "singleton": true,
       "requiredVersion": "18.3.1",
+      "shareScope": "default",
+      "eager": false,
+      "name": "react",
+      "version": "18.3.1",
+      "id": "miniappdemo:react",
       "assets": {
         "js": {
           "async": [],
@@ -72,14 +77,19 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": [
+        "./App"
+      ]
     },
     {
-      "id": "miniappdemo:@react-navigation/bottom-tabs",
-      "name": "@react-navigation/bottom-tabs",
-      "version": "6.6.1",
       "singleton": true,
       "requiredVersion": "6.6.1",
+      "shareScope": "default",
+      "eager": false,
+      "name": "@react-navigation/bottom-tabs",
+      "version": "6.6.1",
+      "id": "miniappdemo:@react-navigation/bottom-tabs",
       "assets": {
         "js": {
           "async": [
@@ -111,14 +121,17 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
-      "id": "miniappdemo:react-native-svg",
-      "name": "react-native-svg",
-      "version": "15.5.0",
       "singleton": true,
       "requiredVersion": "15.5.0",
+      "shareScope": "default",
+      "eager": false,
+      "name": "react-native-svg",
+      "version": "15.5.0",
+      "id": "miniappdemo:react-native-svg",
       "assets": {
         "js": {
           "async": [
@@ -148,14 +161,17 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
-      "id": "miniappdemo:@react-navigation/native",
-      "name": "@react-navigation/native",
-      "version": "6.1.18",
       "singleton": true,
       "requiredVersion": "6.1.18",
+      "shareScope": "default",
+      "eager": false,
+      "name": "@react-navigation/native",
+      "version": "6.1.18",
+      "id": "miniappdemo:@react-navigation/native",
       "assets": {
         "js": {
           "async": [
@@ -184,13 +200,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:@react-native/virtualized-lists",
+      "requiredVersion": "^*",
       "name": "@react-native/virtualized-lists",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -218,13 +235,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:@react-native/normalize-colors",
+      "requiredVersion": "^*",
       "name": "@react-native/normalize-colors",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [],
@@ -236,13 +254,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:@react-native/assets-registry/registry",
+      "requiredVersion": "^*",
       "name": "@react-native/assets-registry/registry",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [],
@@ -254,13 +273,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/ReactPrivate/ReactNativePrivateInterface",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/ReactPrivate/ReactNativePrivateInterface",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -278,13 +298,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:@react-native/assets-registry/path-support",
+      "requiredVersion": "^*",
       "name": "@react-native/assets-registry/path-support",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [],
@@ -296,13 +317,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [],
@@ -314,13 +336,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/NativeComponent/NativeComponentRegistry",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -371,13 +394,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/StyleSheet/processColor",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/StyleSheet/processColor",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -431,13 +455,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/NativeComponent/ViewConfigIgnore",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -490,13 +515,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/ReactNative/RendererProxy",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/ReactNative/RendererProxy",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -547,13 +573,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/StyleSheet/processColorArray",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/StyleSheet/processColorArray",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -605,14 +632,17 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
-      "id": "miniappdemo:react-native-screens",
-      "name": "react-native-screens",
-      "version": "3.37.0",
       "singleton": true,
       "requiredVersion": "3.37.0",
+      "shareScope": "default",
+      "eager": false,
+      "name": "react-native-screens",
+      "version": "3.37.0",
+      "id": "miniappdemo:react-native-screens",
       "assets": {
         "js": {
           "async": [
@@ -641,13 +671,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/Utilities/PixelRatio",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/Utilities/PixelRatio",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -698,13 +729,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/Image/AssetSourceResolver",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/Image/AssetSourceResolver",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -759,13 +791,14 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     },
     {
       "id": "miniappdemo:react-native/Libraries/Image/resolveAssetSource",
+      "requiredVersion": "^*",
       "name": "react-native/Libraries/Image/resolveAssetSource",
       "version": "*",
-      "requiredVersion": "^*",
       "assets": {
         "js": {
           "async": [
@@ -818,14 +851,20 @@
           "async": [],
           "sync": []
         }
-      }
+      },
+      "usedIn": []
     }
   ],
   "remotes": [],
   "exposes": [
     {
+      "path": "./App",
       "id": "miniappdemo:App",
       "name": "App",
+      "requires": [
+        "react"
+      ],
+      "file": "src/navigation/MainNavigator",
       "assets": {
         "js": {
           "sync": [
@@ -860,8 +899,7 @@
           "sync": [],
           "async": []
         }
-      },
-      "path": "./App"
+      }
     }
   ]
 }
