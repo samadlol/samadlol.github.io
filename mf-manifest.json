@@ -1,0 +1,538 @@
+{
+  "id": "miniappdemo",
+  "name": "miniappdemo",
+  "metaData": {
+    "name": "miniappdemo",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.0.1",
+      "buildName": "miniappdemo"
+    },
+    "remoteEntry": {
+      "name": "miniappdemo.container.js.bundle",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "miniappdemo",
+    "pluginVersion": "0.11.3",
+    "prefetchInterface": false,
+    "publicPath": "https://samadlol.github.io/testing-cdn/"
+  },
+  "shared": [
+    {
+      "id": "miniappdemo:react-native",
+      "name": "react-native",
+      "version": "0.75.4",
+      "singleton": true,
+      "requiredVersion": "0.75.4",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/Utilities/DevSettings",
+      "name": "react-native/Libraries/Utilities/DevSettings",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/NativeModules/specs/NativeRedBox",
+      "name": "react-native/Libraries/NativeModules/specs/NativeRedBox",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/LogBox/Data/LogBoxData",
+      "name": "react-native/Libraries/LogBox/Data/LogBoxData",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/Utilities/DevLoadingView",
+      "name": "react-native/Libraries/Utilities/DevLoadingView",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "18.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:@react-navigation/bottom-tabs",
+      "name": "@react-navigation/bottom-tabs",
+      "version": "6.6.1",
+      "singleton": true,
+      "requiredVersion": "6.6.1",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:@react-navigation/native",
+      "name": "@react-navigation/native",
+      "version": "6.1.18",
+      "singleton": true,
+      "requiredVersion": "6.1.18",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native-svg",
+      "name": "react-native-svg",
+      "version": "15.5.0",
+      "singleton": true,
+      "requiredVersion": "15.5.0",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:@react-native/virtualized-lists",
+      "name": "@react-native/virtualized-lists",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/ReactPrivate/ReactNativePrivateInterface",
+      "name": "react-native/Libraries/ReactPrivate/ReactNativePrivateInterface",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:@react-native/normalize-colors",
+      "name": "@react-native/normalize-colors",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:@react-native/assets-registry/registry",
+      "name": "@react-native/assets-registry/registry",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore",
+      "name": "react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "name": "react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/StyleSheet/processColor",
+      "name": "react-native/Libraries/StyleSheet/processColor",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "name": "react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/ReactNative/RendererProxy",
+      "name": "react-native/Libraries/ReactNative/RendererProxy",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/StyleSheet/processColorArray",
+      "name": "react-native/Libraries/StyleSheet/processColorArray",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/Image/AssetRegistry",
+      "name": "react-native/Libraries/Image/AssetRegistry",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:@react-native/assets-registry/path-support",
+      "name": "@react-native/assets-registry/path-support",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native-screens",
+      "name": "react-native-screens",
+      "version": "3.37.0",
+      "singleton": true,
+      "requiredVersion": "3.37.0",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "miniappdemo:react-native/Libraries/Image/resolveAssetSource",
+      "name": "react-native/Libraries/Image/resolveAssetSource",
+      "version": "*",
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_App.js"
+          ],
+          "sync": [
+            "main.js",
+            "miniappdemo.container.js.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "miniappdemo:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_App.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}
