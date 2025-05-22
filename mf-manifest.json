@@ -75,6 +75,42 @@
       }
     },
     {
+      "id": "miniappdemo:@react-navigation/native",
+      "name": "@react-navigation/native",
+      "version": "6.1.18",
+      "singleton": true,
+      "requiredVersion": "6.1.18",
+      "assets": {
+        "js": {
+          "async": [
+            "vendors-node_modules_react-native_Libraries_TurboModule_TurboModuleRegistry_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Utilities_PixelRatio_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_NativeComponent_NativeComponentRegistry_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_ReactNative_RendererProxy_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Components_AccessibilityInfo_legacySendAccessibil-d4854e.chunk.bundle",
+            "vendors-node_modules_react-native_index_js.chunk.bundle",
+            "node_modules_react_index_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_ReactPrivate_ReactNativePrivateInterface_js.chunk.bundle",
+            "node_modules_react-native_normalize-colors_index_js.chunk.bundle",
+            "node_modules_react-native_assets-registry_path-support_js.chunk.bundle",
+            "node_modules_react-native_assets-registry_registry_js.chunk.bundle",
+            "node_modules_react-native_Libraries_ReactPrivate_ReactNativePrivateInitializeCore_js.chunk.bundle",
+            "node_modules_react-native_Libraries_Utilities_Platform_ios_js.chunk.bundle",
+            "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
+            "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
+            "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle"
+          ],
+          "sync": [
+            "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "miniappdemo:@react-navigation/bottom-tabs",
       "name": "@react-navigation/bottom-tabs",
       "version": "6.6.1",
@@ -100,6 +136,7 @@
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle"
           ],
@@ -142,42 +179,6 @@
           ],
           "sync": [
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle"
-          ]
-        },
-        "css": {
-          "async": [],
-          "sync": []
-        }
-      }
-    },
-    {
-      "id": "miniappdemo:@react-navigation/native",
-      "name": "@react-navigation/native",
-      "version": "6.1.18",
-      "singleton": true,
-      "requiredVersion": "6.1.18",
-      "assets": {
-        "js": {
-          "async": [
-            "vendors-node_modules_react-native_Libraries_TurboModule_TurboModuleRegistry_js.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_Utilities_PixelRatio_js.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_NativeComponent_NativeComponentRegistry_js.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_ReactNative_RendererProxy_js.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_Components_AccessibilityInfo_legacySendAccessibil-d4854e.chunk.bundle",
-            "vendors-node_modules_react-native_index_js.chunk.bundle",
-            "node_modules_react_index_js.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_ReactPrivate_ReactNativePrivateInterface_js.chunk.bundle",
-            "node_modules_react-native_normalize-colors_index_js.chunk.bundle",
-            "node_modules_react-native_assets-registry_path-support_js.chunk.bundle",
-            "node_modules_react-native_assets-registry_registry_js.chunk.bundle",
-            "node_modules_react-native_Libraries_ReactPrivate_ReactNativePrivateInitializeCore_js.chunk.bundle",
-            "node_modules_react-native_Libraries_Utilities_Platform_ios_js.chunk.bundle",
-            "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
-            "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
-            "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle"
-          ],
-          "sync": [
-            "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle"
           ]
         },
         "css": {
@@ -281,6 +282,43 @@
       }
     },
     {
+      "id": "miniappdemo:react-native-safe-area-context",
+      "name": "react-native-safe-area-context",
+      "version": "4.10.9",
+      "singleton": true,
+      "requiredVersion": "4.10.9",
+      "assets": {
+        "js": {
+          "async": [
+            "vendors-node_modules_react-native_Libraries_TurboModule_TurboModuleRegistry_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Utilities_PixelRatio_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_NativeComponent_NativeComponentRegistry_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_ReactNative_RendererProxy_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Components_AccessibilityInfo_legacySendAccessibil-d4854e.chunk.bundle",
+            "vendors-node_modules_react-native_index_js.chunk.bundle",
+            "node_modules_react_index_js.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_ReactPrivate_ReactNativePrivateInterface_js.chunk.bundle",
+            "node_modules_react-native_normalize-colors_index_js.chunk.bundle",
+            "node_modules_react-native_assets-registry_path-support_js.chunk.bundle",
+            "node_modules_react-native_assets-registry_registry_js.chunk.bundle",
+            "node_modules_react-native_Libraries_ReactPrivate_ReactNativePrivateInitializeCore_js.chunk.bundle",
+            "node_modules_react-native_Libraries_Utilities_Platform_ios_js.chunk.bundle",
+            "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
+            "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
+            "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle"
+          ],
+          "sync": [
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "miniappdemo:@react-native/assets-registry/path-support",
       "name": "@react-native/assets-registry/path-support",
       "version": "*",
@@ -340,8 +378,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -349,6 +388,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -397,8 +437,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -406,6 +447,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -457,8 +499,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -466,6 +509,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -516,8 +560,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -525,6 +570,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -573,8 +619,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -582,6 +629,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -667,8 +715,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -676,6 +725,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -724,8 +774,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -733,6 +784,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -785,8 +837,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",
@@ -794,6 +847,7 @@
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852310.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a0.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a0.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df450.chunk.bundle",
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792050.chunk.bundle",
             "node_modules_swc_helpers_cjs__get_cjs-node_modules_swc_helpers_cjs__interop_require_wildcard_-ff5a6b.chunk.bundle",
             "node_modules_swc_helpers_cjs__interop_require_wildcard_cjs-node_modules_react_jsx-runtime_js--1852311.chunk.bundle",
@@ -848,8 +902,9 @@
             "node_modules_react-native_Libraries_StyleSheet_PlatformColorValueTypes_ios_js-node_modules_re-9792051.chunk.bundle",
             "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle",
             "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-_534a1.chunk.bundle",
-            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-navigation_native_src_index_tsx.chunk.bundle",
+            "vendors-node_modules_react-navigation_bottom-tabs_src_index_tsx.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_df451.chunk.bundle",
             "node_modules_react-native_Libraries_Image_AssetSourceResolver_js-_1c1a1.chunk.bundle",
             "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle",
             "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle",

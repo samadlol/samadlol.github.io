@@ -84,6 +84,189 @@ if (true) {
 
 
 }),
+21560: (function (__unused_webpack_module, exports) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "HEADER_LOGO", ({
+    enumerable: true,
+    get: function() {
+        return HEADER_LOGO;
+    }
+}));
+var HEADER_LOGO = `
+<svg viewBox="0 0 786 192"><g fill="#0069B1"><path d="m134 80.4v1.5c0 0.5 0 1-0.1 1.5h-35.5c0.1 1.9 0.5 3.6 1.3 5.3s1.8 3.1 3.2 4.3c1.3 1.2 2.8 2.2 4.6 2.9 1.7 0.7 3.6 1 5.5 1 3 0 5.6-0.7 7.8-2s3.9-2.9 5.2-4.8l6.2 5c-2.4 3.2-5.2 5.5-8.4 7s-6.8 2.2-10.8 2.2c-3.4 0-6.5-0.6-9.4-1.7s-5.4-2.7-7.4-4.8c-2.1-2-3.7-4.5-4.9-7.4s-1.8-6.1-1.8-9.6 0.6-6.6 1.7-9.6c1.2-2.9 2.8-5.4 4.9-7.5s4.5-3.7 7.4-4.9c2.8-1.2 5.9-1.7 9.2-1.7s6.2 0.5 8.9 1.6 4.9 2.6 6.8 4.6 3.3 4.4 4.3 7.3c0.8 3 1.3 6.3 1.3 9.8zm-9-3.5c-0.1-1.8-0.4-3.4-0.9-4.9s-1.3-2.9-2.4-4c-1-1.1-2.3-2-3.9-2.7-1.5-0.7-3.3-1-5.4-1-1.9 0-3.7 0.3-5.3 1-1.7 0.7-3.1 1.6-4.3 2.7s-2.2 2.5-3 4-1.2 3.2-1.4 4.9h26.6z"/><polygon points="223 58.5 213 92.9 202 58.5 193 58.5 182 92.9 172 58.5 162 58.5 177 103 186 103 197 69.6 198 69.6 209 103 218 103 233 58.5"/><path d="m280 80.7c0 3.5-0.6 6.6-1.8 9.5s-2.9 5.4-5.1 7.5-4.7 3.7-7.7 4.9-6.1 1.7-9.5 1.7-6.6-0.6-9.5-1.7c-3-1.2-5.5-2.8-7.6-4.9s-3.8-4.6-5-7.5-1.8-6.1-1.8-9.5c0-3.5 0.6-6.6 1.8-9.5s2.9-5.3 5-7.4 4.7-3.7 7.6-4.9c3-1.2 6.1-1.7 9.5-1.7s6.6 0.6 9.5 1.7c3 1.2 5.5 2.8 7.7 4.9s3.9 4.5 5.1 7.4 1.8 6.1 1.8 9.5zm-9.2 0.1c0-2.1-0.3-4.2-1-6.1s-1.6-3.6-2.9-5.1-2.8-2.6-4.7-3.5-4-1.3-6.4-1.3-4.5 0.4-6.4 1.3-3.4 2.1-4.7 3.5c-1.3 1.5-2.2 3.2-2.9 5.1s-1 4-1 6.1 0.3 4.2 1 6.1 1.6 3.7 2.9 5.2 2.8 2.7 4.7 3.6 4 1.3 6.4 1.3 4.5-0.4 6.4-1.3 3.4-2.1 4.7-3.6 2.2-3.2 2.9-5.2 1-4 1-6.1z"/><rect x="314" y="44.7" width="8.9" height="58.5"/><path d="m159 65.3v-6.8h-11.1v-13.8h-8.8v45.3c0 4.7 1.1 8.1 3.3 10.5 2.2 2.3 5.4 3.5 9.7 3.5 1.4 0 2.7-0.1 4-0.3 1-0.2 2-0.4 2.9-0.7v-7.3c-0.7 0.3-1.4 0.5-2.2 0.6-0.9 0.2-1.8 0.3-2.6 0.3-2.2 0-3.8-0.6-4.8-1.7-1-1.2-1.5-3.1-1.5-5.8v-23.8h11.1z"/><path d="m306 57.3c-3 0-5.7 0.8-8.2 2.4-2.4 1.6-4.5 3.7-5.8 6.4v-7.5h-8.4v44.7h8.9v-23.6c0-1.9 0.3-3.7 0.8-5.4s1.3-3.3 2.3-4.6 2.3-2.4 3.9-3.2 3.4-1.2 5.6-1.2c1.4 0 2.8 0.2 4 0.5v-8.3c-0.9-0.1-1.9-0.2-3.1-0.2z"/><path d="m83.5 68.4c-0.7-2.2-1.7-4.1-3.1-5.7s-3.1-2.9-5.2-3.9-4.6-1.5-7.4-1.5c-1.6 0-3.2 0.2-4.7 0.7-1.5 0.4-2.9 1.1-4.1 1.8-1.3 0.8-2.4 1.7-3.3 2.7-1 1-2 2.2-2.6 3.3v-7.3h-8.4v44.7h8.9v-23.8c0-4.5 1.1-8 3.3-10.7s5.1-4 8.6-4c2.1 0 3.8 0.4 5.1 1.1 1.3 0.8 2.4 1.8 3.1 3 0.8 1.3 1.3 2.7 1.6 4.3s0.4 3.4 0.4 5.2v24.8h8.9v-27.6c-0.1-2.6-0.4-4.9-1.1-7.1z"/><polygon points="342 58.5 353 58.5 334 81 352 103 342 103 323 81"/></g><polygon points="374 58.5 363 58.5 382 81 363 103 374 103 393 81" fill="#E12E56"/><g fill="#0069B1"><path d="m459 103h-5.9v-22.9c0-9.2-7.5-16.7-16.7-16.7s-16.7 7.5-16.7 16.7v11.5h-5.9v-11.5c0-12.5 10.2-22.6 22.6-22.6s22.6 10.2 22.6 22.6v22.9z"/><path d="m671 106c-12.5 0-22.6-10.2-22.6-22.6v-18.6h5.9v18.5c0 9.2 7.5 16.7 16.7 16.7s16.7-7.5 16.7-16.7v-24.2h5.9v24.2c0.1 12.5-10.1 22.7-22.6 22.7z"/><rect x="464" y="77.3" width="12.7" height="5.9"/><path d="m505 103c-12.5 0-22.6-10.2-22.6-22.6 0-12.5 10.2-22.6 22.6-22.6s22.6 10.2 22.6 22.6c0 12.5-10.1 22.6-22.6 22.6zm0-39.3c-9.2 0-16.7 7.5-16.7 16.7s7.5 16.7 16.7 16.7 16.7-7.5 16.7-16.7-7.5-16.7-16.7-16.7z"/><path d="m555 103c-12.5 0-22.6-10.2-22.6-22.6 0-12.5 10.2-22.6 22.6-22.6 12.5 0 22.6 10.2 22.6 22.6v3h-25.4v-5.9h19.2c-1.4-7.8-8.2-13.7-16.4-13.7-9.2 0-16.7 7.5-16.7 16.7s7.5 16.7 16.7 16.7c5.8 0 11-2.9 14.1-7.8l5 3.2c-4.1 6.5-11.2 10.4-19.1 10.4z"/><rect x="636" y="68.7" width="5.9" height="34.2"/><path d="m642 62.1-5.5-2.3c2.4-5.7 7.9-9.4 14.1-9.4v5.9c-3.7 0.1-7.1 2.3-8.6 5.8z"/><path d="m707 79.1c-4-1.8-6.6-5.8-6.6-10.2 0-6.2 5-11.2 11.2-11.2h13.1v5.9h-13.1c-2.9 0-5.3 2.4-5.3 5.3 0 2.1 1.2 4 3.1 4.8l-2.4 5.4z"/><path d="m723 103h-19.6v-5.9h19.6c4.6 0 8.4-3.8 8.4-8.4s-3.8-8.4-8.4-8.4h-6.2v-5.9h6.2c7.9 0 14.3 6.4 14.3 14.3s-6.4 14.3-14.3 14.3z"/><path d="m628 103h-5.9v-22.9c0-9.2-7.5-16.7-16.7-16.7s-16.7 7.5-16.7 16.7v11.5h-5.9v-11.5c0-12.5 10.2-22.6 22.6-22.6 12.5 0 22.6 10.2 22.6 22.6v22.9z"/><path d="m505 128c-10.2 0-19.1-6.8-21.8-16.6l5.7-1.6c2 7.2 8.6 12.2 16.1 12.2 7.6 0 14.3-5.1 16.2-12.5l5.7 1.5c-2.6 10.1-11.6 17-21.9 17z"/></g><path d="m733 63.2h-0.6v-3.9h-1.4v-0.6h3.5v0.6h-1.4v3.9zm4.7-1-1.7-2.4v3.4h-0.6v-4.5h0.7l1.6 2.4 1.6-2.4h0.7v4.5h-0.6v-3.4l-1.7 2.4z" fill="#0069B1"/><g fill="#0069B1"><path d="m662 148c-7.6 0-13.1-6.1-13.1-13.3v-0.1c0-7.2 5.6-13.4 13.2-13.4s13.1 6.1 13.1 13.3v0.1c0 7.1-5.5 13.4-13.2 13.4zm10.6-13.5c0-6.2-4.6-11.1-10.6-11.1-6.1 0-10.5 5-10.5 11v0.1c0 6.2 4.6 11.1 10.6 11.1 6.1 0 10.5-5 10.5-11v-0.1z"/><path d="m703 147v-15.3c0-5.3-3-8.8-8.2-8.8-5 0-8.9 3.8-8.9 9.2v14.8h-2.5v-25.7h2.5v4.8c1.7-3 4.6-5.4 9.3-5.4 6.5 0 10.3 4.4 10.3 10.6v15.7h-2.5z"/><path d="m725 145c4 0 6.7-1.8 8.8-4l1.7 1.5c-2.6 2.8-5.7 4.8-10.6 4.8-6.7 0-12.6-5.4-12.6-13.4v-0.1c0-7.4 5.2-13.4 12.2-13.4 7.2 0 11.8 5.8 11.8 13.4v0.1c0 0.4 0 0.5-0.1 0.9h-21.2c0.4 6.4 5 10.2 10 10.2zm8.6-12.4c-0.4-5.2-3.3-10-9.2-10-5.1 0-9 4.3-9.5 10h18.7z"/></g></svg>
+`;
+
+
+}),
+14285: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "HEADER_LOGO", ({
+    enumerable: true,
+    get: function() {
+        return _header.HEADER_LOGO;
+    }
+}));
+var _header = __webpack_require__(21560);
+
+
+}),
+38176: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "Header", ({
+    enumerable: true,
+    get: function() {
+        return _Header.default;
+    }
+}));
+var _interop_require_default = __webpack_require__(99782);
+var _Header = /*#__PURE__*/ _interop_require_default._(__webpack_require__(56095));
+
+
+}),
+52196: (function (__unused_webpack_module, exports) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+function _export(target, all) {
+    for(var name in all)Object.defineProperty(target, name, {
+        enumerable: true,
+        get: Object.getOwnPropertyDescriptor(all, name).get
+    });
+}
+_export(exports, {
+    get ACCENT () {
+        return ACCENT;
+    },
+    get PRIMARY () {
+        return PRIMARY;
+    }
+});
+var PRIMARY = '#0069b1';
+var ACCENT = '#e12e55';
+
+
+}),
+42729: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+function _export(target, all) {
+    for(var name in all)Object.defineProperty(target, name, {
+        enumerable: true,
+        get: Object.getOwnPropertyDescriptor(all, name).get
+    });
+}
+_export(exports, {
+    get ACCENT () {
+        return _colors.ACCENT;
+    },
+    get PRIMARY () {
+        return _colors.PRIMARY;
+    }
+});
+var _colors = __webpack_require__(52196);
+
+
+}),
+72601: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+function _export(target, all) {
+    for(var name in all)Object.defineProperty(target, name, {
+        enumerable: true,
+        get: Object.getOwnPropertyDescriptor(all, name).get
+    });
+}
+_export(exports, {
+    get HomeScreen () {
+        return _HomeScreen.default;
+    },
+    get ServicesScreen () {
+        return _ServicesScreen.default;
+    },
+    get SettingsScreen () {
+        return _SettingsScreen.default;
+    }
+});
+var _interop_require_default = __webpack_require__(99782);
+var _ServicesScreen = /*#__PURE__*/ _interop_require_default._(__webpack_require__(51608));
+var _SettingsScreen = /*#__PURE__*/ _interop_require_default._(__webpack_require__(53833));
+var _HomeScreen = /*#__PURE__*/ _interop_require_default._(__webpack_require__(55166));
+
+
+}),
+56095: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "default", ({
+    enumerable: true,
+    get: function() {
+        return _default;
+    }
+}));
+var _jsxruntime = __webpack_require__(34260);
+var _native = __webpack_require__(7149);
+var _assets = __webpack_require__(14285);
+var _reactnative = __webpack_require__(1350);
+var _reactnativesvg = __webpack_require__(28514);
+var _designSystem = __webpack_require__(42729);
+var Header = ()=>{
+    var navigation = (0, _native.useNavigation)();
+    var handleGoBack = ()=>{
+        var _navigation_getParent;
+        (_navigation_getParent = navigation.getParent()) === null || _navigation_getParent === void 0 ? void 0 : _navigation_getParent.goBack();
+    };
+    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+        style: {
+            paddingHorizontal: 16,
+            marginTop: 10,
+            marginBottom: 20
+        },
+        children: [
+            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnativesvg.SvgXml, {
+                width: 200,
+                height: 60,
+                xml: _assets.HEADER_LOGO,
+                style: {
+                    alignSelf: 'center'
+                }
+            }),
+            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                style: styles.goBackButton,
+                onPress: handleGoBack,
+                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                    style: styles.buttonText,
+                    children: "\u2B05 Back to Super App"
+                })
+            })
+        ]
+    });
+};
+var _default = Header;
+var styles = _reactnative.StyleSheet.create({
+    buttonText: {
+        color: 'white',
+        fontWeight: 'bold'
+    },
+    goBackButton: {
+        backgroundColor: _designSystem.PRIMARY,
+        padding: 10,
+        borderRadius: 8,
+        alignItems: 'center',
+        marginTop: 10
+    }
+});
+
+
+}),
 1660: (function (__unused_webpack_module, exports, __webpack_require__) {
 /**
  * Sample React Native App
@@ -127,231 +310,8 @@ var _react = /*#__PURE__*/ _interop_require_wildcard._(__webpack_require__(13668
 var _bottomtabs = __webpack_require__(29476);
 var _reactnative = __webpack_require__(1350);
 var _reactnativesvg = /*#__PURE__*/ _interop_require_wildcard._(__webpack_require__(28514));
-var _native = __webpack_require__(7149);
-var HEADER_LOGO = `
-<svg viewBox="0 0 786 192"><g fill="#0069B1"><path d="m134 80.4v1.5c0 0.5 0 1-0.1 1.5h-35.5c0.1 1.9 0.5 3.6 1.3 5.3s1.8 3.1 3.2 4.3c1.3 1.2 2.8 2.2 4.6 2.9 1.7 0.7 3.6 1 5.5 1 3 0 5.6-0.7 7.8-2s3.9-2.9 5.2-4.8l6.2 5c-2.4 3.2-5.2 5.5-8.4 7s-6.8 2.2-10.8 2.2c-3.4 0-6.5-0.6-9.4-1.7s-5.4-2.7-7.4-4.8c-2.1-2-3.7-4.5-4.9-7.4s-1.8-6.1-1.8-9.6 0.6-6.6 1.7-9.6c1.2-2.9 2.8-5.4 4.9-7.5s4.5-3.7 7.4-4.9c2.8-1.2 5.9-1.7 9.2-1.7s6.2 0.5 8.9 1.6 4.9 2.6 6.8 4.6 3.3 4.4 4.3 7.3c0.8 3 1.3 6.3 1.3 9.8zm-9-3.5c-0.1-1.8-0.4-3.4-0.9-4.9s-1.3-2.9-2.4-4c-1-1.1-2.3-2-3.9-2.7-1.5-0.7-3.3-1-5.4-1-1.9 0-3.7 0.3-5.3 1-1.7 0.7-3.1 1.6-4.3 2.7s-2.2 2.5-3 4-1.2 3.2-1.4 4.9h26.6z"/><polygon points="223 58.5 213 92.9 202 58.5 193 58.5 182 92.9 172 58.5 162 58.5 177 103 186 103 197 69.6 198 69.6 209 103 218 103 233 58.5"/><path d="m280 80.7c0 3.5-0.6 6.6-1.8 9.5s-2.9 5.4-5.1 7.5-4.7 3.7-7.7 4.9-6.1 1.7-9.5 1.7-6.6-0.6-9.5-1.7c-3-1.2-5.5-2.8-7.6-4.9s-3.8-4.6-5-7.5-1.8-6.1-1.8-9.5c0-3.5 0.6-6.6 1.8-9.5s2.9-5.3 5-7.4 4.7-3.7 7.6-4.9c3-1.2 6.1-1.7 9.5-1.7s6.6 0.6 9.5 1.7c3 1.2 5.5 2.8 7.7 4.9s3.9 4.5 5.1 7.4 1.8 6.1 1.8 9.5zm-9.2 0.1c0-2.1-0.3-4.2-1-6.1s-1.6-3.6-2.9-5.1-2.8-2.6-4.7-3.5-4-1.3-6.4-1.3-4.5 0.4-6.4 1.3-3.4 2.1-4.7 3.5c-1.3 1.5-2.2 3.2-2.9 5.1s-1 4-1 6.1 0.3 4.2 1 6.1 1.6 3.7 2.9 5.2 2.8 2.7 4.7 3.6 4 1.3 6.4 1.3 4.5-0.4 6.4-1.3 3.4-2.1 4.7-3.6 2.2-3.2 2.9-5.2 1-4 1-6.1z"/><rect x="314" y="44.7" width="8.9" height="58.5"/><path d="m159 65.3v-6.8h-11.1v-13.8h-8.8v45.3c0 4.7 1.1 8.1 3.3 10.5 2.2 2.3 5.4 3.5 9.7 3.5 1.4 0 2.7-0.1 4-0.3 1-0.2 2-0.4 2.9-0.7v-7.3c-0.7 0.3-1.4 0.5-2.2 0.6-0.9 0.2-1.8 0.3-2.6 0.3-2.2 0-3.8-0.6-4.8-1.7-1-1.2-1.5-3.1-1.5-5.8v-23.8h11.1z"/><path d="m306 57.3c-3 0-5.7 0.8-8.2 2.4-2.4 1.6-4.5 3.7-5.8 6.4v-7.5h-8.4v44.7h8.9v-23.6c0-1.9 0.3-3.7 0.8-5.4s1.3-3.3 2.3-4.6 2.3-2.4 3.9-3.2 3.4-1.2 5.6-1.2c1.4 0 2.8 0.2 4 0.5v-8.3c-0.9-0.1-1.9-0.2-3.1-0.2z"/><path d="m83.5 68.4c-0.7-2.2-1.7-4.1-3.1-5.7s-3.1-2.9-5.2-3.9-4.6-1.5-7.4-1.5c-1.6 0-3.2 0.2-4.7 0.7-1.5 0.4-2.9 1.1-4.1 1.8-1.3 0.8-2.4 1.7-3.3 2.7-1 1-2 2.2-2.6 3.3v-7.3h-8.4v44.7h8.9v-23.8c0-4.5 1.1-8 3.3-10.7s5.1-4 8.6-4c2.1 0 3.8 0.4 5.1 1.1 1.3 0.8 2.4 1.8 3.1 3 0.8 1.3 1.3 2.7 1.6 4.3s0.4 3.4 0.4 5.2v24.8h8.9v-27.6c-0.1-2.6-0.4-4.9-1.1-7.1z"/><polygon points="342 58.5 353 58.5 334 81 352 103 342 103 323 81"/></g><polygon points="374 58.5 363 58.5 382 81 363 103 374 103 393 81" fill="#E12E56"/><g fill="#0069B1"><path d="m459 103h-5.9v-22.9c0-9.2-7.5-16.7-16.7-16.7s-16.7 7.5-16.7 16.7v11.5h-5.9v-11.5c0-12.5 10.2-22.6 22.6-22.6s22.6 10.2 22.6 22.6v22.9z"/><path d="m671 106c-12.5 0-22.6-10.2-22.6-22.6v-18.6h5.9v18.5c0 9.2 7.5 16.7 16.7 16.7s16.7-7.5 16.7-16.7v-24.2h5.9v24.2c0.1 12.5-10.1 22.7-22.6 22.7z"/><rect x="464" y="77.3" width="12.7" height="5.9"/><path d="m505 103c-12.5 0-22.6-10.2-22.6-22.6 0-12.5 10.2-22.6 22.6-22.6s22.6 10.2 22.6 22.6c0 12.5-10.1 22.6-22.6 22.6zm0-39.3c-9.2 0-16.7 7.5-16.7 16.7s7.5 16.7 16.7 16.7 16.7-7.5 16.7-16.7-7.5-16.7-16.7-16.7z"/><path d="m555 103c-12.5 0-22.6-10.2-22.6-22.6 0-12.5 10.2-22.6 22.6-22.6 12.5 0 22.6 10.2 22.6 22.6v3h-25.4v-5.9h19.2c-1.4-7.8-8.2-13.7-16.4-13.7-9.2 0-16.7 7.5-16.7 16.7s7.5 16.7 16.7 16.7c5.8 0 11-2.9 14.1-7.8l5 3.2c-4.1 6.5-11.2 10.4-19.1 10.4z"/><rect x="636" y="68.7" width="5.9" height="34.2"/><path d="m642 62.1-5.5-2.3c2.4-5.7 7.9-9.4 14.1-9.4v5.9c-3.7 0.1-7.1 2.3-8.6 5.8z"/><path d="m707 79.1c-4-1.8-6.6-5.8-6.6-10.2 0-6.2 5-11.2 11.2-11.2h13.1v5.9h-13.1c-2.9 0-5.3 2.4-5.3 5.3 0 2.1 1.2 4 3.1 4.8l-2.4 5.4z"/><path d="m723 103h-19.6v-5.9h19.6c4.6 0 8.4-3.8 8.4-8.4s-3.8-8.4-8.4-8.4h-6.2v-5.9h6.2c7.9 0 14.3 6.4 14.3 14.3s-6.4 14.3-14.3 14.3z"/><path d="m628 103h-5.9v-22.9c0-9.2-7.5-16.7-16.7-16.7s-16.7 7.5-16.7 16.7v11.5h-5.9v-11.5c0-12.5 10.2-22.6 22.6-22.6 12.5 0 22.6 10.2 22.6 22.6v22.9z"/><path d="m505 128c-10.2 0-19.1-6.8-21.8-16.6l5.7-1.6c2 7.2 8.6 12.2 16.1 12.2 7.6 0 14.3-5.1 16.2-12.5l5.7 1.5c-2.6 10.1-11.6 17-21.9 17z"/></g><path d="m733 63.2h-0.6v-3.9h-1.4v-0.6h3.5v0.6h-1.4v3.9zm4.7-1-1.7-2.4v3.4h-0.6v-4.5h0.7l1.6 2.4 1.6-2.4h0.7v4.5h-0.6v-3.4l-1.7 2.4z" fill="#0069B1"/><g fill="#0069B1"><path d="m662 148c-7.6 0-13.1-6.1-13.1-13.3v-0.1c0-7.2 5.6-13.4 13.2-13.4s13.1 6.1 13.1 13.3v0.1c0 7.1-5.5 13.4-13.2 13.4zm10.6-13.5c0-6.2-4.6-11.1-10.6-11.1-6.1 0-10.5 5-10.5 11v0.1c0 6.2 4.6 11.1 10.6 11.1 6.1 0 10.5-5 10.5-11v-0.1z"/><path d="m703 147v-15.3c0-5.3-3-8.8-8.2-8.8-5 0-8.9 3.8-8.9 9.2v14.8h-2.5v-25.7h2.5v4.8c1.7-3 4.6-5.4 9.3-5.4 6.5 0 10.3 4.4 10.3 10.6v15.7h-2.5z"/><path d="m725 145c4 0 6.7-1.8 8.8-4l1.7 1.5c-2.6 2.8-5.7 4.8-10.6 4.8-6.7 0-12.6-5.4-12.6-13.4v-0.1c0-7.4 5.2-13.4 12.2-13.4 7.2 0 11.8 5.8 11.8 13.4v0.1c0 0.4 0 0.5-0.1 0.9h-21.2c0.4 6.4 5 10.2 10 10.2zm8.6-12.4c-0.4-5.2-3.3-10-9.2-10-5.1 0-9 4.3-9.5 10h18.7z"/></g></svg>
-`;
+var _screens = __webpack_require__(72601);
 var Tab = (0, _bottomtabs.createBottomTabNavigator)();
-var HomeScreen = ()=>{
-    var navigation = (0, _native.useNavigation)();
-    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.SafeAreaView, {
-        style: {
-            flex: 1,
-            alignItems: 'center'
-        },
-        children: [
-            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.View, {
-                style: {
-                    marginTop: 10
-                },
-                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnativesvg.SvgXml, {
-                    width: 200,
-                    height: 60,
-                    xml: HEADER_LOGO
-                })
-            }),
-            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
-                style: {
-                    flex: 1,
-                    justifyContent: 'center',
-                    alignItems: 'center'
-                },
-                children: [
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#0069b1',
-                            fontWeight: 'bold',
-                            fontSize: 25,
-                            marginBottom: 40,
-                            marginHorizontal: 20,
-                            textAlign: 'center'
-                        },
-                        children: 'Hello from Mini App\nHome Screen'
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#000',
-                            fontSize: 18,
-                            marginBottom: 40,
-                            paddingHorizontal: 16,
-                            textAlign: 'center'
-                        },
-                        children: "This is a demo mini app launched from the NGO application, which serves as the Super App (host)."
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
-                        onPress: ()=>{
-                            var _navigation_getParent;
-                            (_navigation_getParent = navigation.getParent()) === null || _navigation_getParent === void 0 ? void 0 : _navigation_getParent.goBack();
-                        },
-                        style: {
-                            backgroundColor: '#e12e55',
-                            padding: 16,
-                            borderRadius: 8
-                        },
-                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                            style: {
-                                color: 'white',
-                                fontSize: 16,
-                                fontWeight: 'bold'
-                            },
-                            children: "Back to NGO application"
-                        })
-                    })
-                ]
-            })
-        ]
-    });
-};
-var SettingsScreen = ()=>{
-    var navigation = (0, _native.useNavigation)();
-    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.SafeAreaView, {
-        style: {
-            flex: 1,
-            alignItems: 'center'
-        },
-        children: [
-            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.View, {
-                style: {
-                    marginTop: 10
-                },
-                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnativesvg.SvgXml, {
-                    width: 200,
-                    height: 60,
-                    xml: HEADER_LOGO
-                })
-            }),
-            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
-                style: {
-                    flex: 1,
-                    justifyContent: 'center',
-                    alignItems: 'center'
-                },
-                children: [
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#0069b1',
-                            fontWeight: 'bold',
-                            fontSize: 25,
-                            marginBottom: 40,
-                            marginHorizontal: 20,
-                            textAlign: 'center'
-                        },
-                        children: 'Hello from Mini App\nSettings Screen'
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#000',
-                            fontSize: 18,
-                            marginBottom: 40,
-                            paddingHorizontal: 16,
-                            textAlign: 'center'
-                        },
-                        children: "This is a demo mini app launched from the NGO application, which serves as the Super App (host)."
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#000',
-                            fontSize: 18,
-                            marginBottom: 40,
-                            paddingHorizontal: 16,
-                            textAlign: 'center'
-                        },
-                        children: "This is a demo mini app launched from the NGO application, which serves as the Super App (host)."
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
-                        onPress: ()=>{
-                            var _navigation_getParent;
-                            (_navigation_getParent = navigation.getParent()) === null || _navigation_getParent === void 0 ? void 0 : _navigation_getParent.goBack();
-                        },
-                        style: {
-                            backgroundColor: '#e12e55',
-                            padding: 16,
-                            borderRadius: 8
-                        },
-                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                            style: {
-                                color: 'white',
-                                fontSize: 16,
-                                fontWeight: 'bold'
-                            },
-                            children: "Back to NGO application"
-                        })
-                    })
-                ]
-            })
-        ]
-    });
-};
-var ServicesScreen = ()=>{
-    var navigation = (0, _native.useNavigation)();
-    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.SafeAreaView, {
-        style: {
-            flex: 1,
-            alignItems: 'center'
-        },
-        children: [
-            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.View, {
-                style: {
-                    marginTop: 10
-                },
-                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnativesvg.SvgXml, {
-                    width: 200,
-                    height: 60,
-                    xml: HEADER_LOGO
-                })
-            }),
-            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
-                style: {
-                    flex: 1,
-                    justifyContent: 'center',
-                    alignItems: 'center'
-                },
-                children: [
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#0069b1',
-                            fontWeight: 'bold',
-                            fontSize: 25,
-                            marginBottom: 40,
-                            marginHorizontal: 20,
-                            textAlign: 'center'
-                        },
-                        children: 'Hello from Mini App\nServices Screen'
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                        style: {
-                            color: '#000',
-                            fontSize: 18,
-                            marginBottom: 40,
-                            paddingHorizontal: 16,
-                            textAlign: 'center'
-                        },
-                        children: "This is a demo mini app launched from the NGO application, which serves as the Super App (host)."
-                    }),
-                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
-                        onPress: ()=>{
-                            var _navigation_getParent;
-                            (_navigation_getParent = navigation.getParent()) === null || _navigation_getParent === void 0 ? void 0 : _navigation_getParent.goBack();
-                        },
-                        style: {
-                            backgroundColor: '#e12e55',
-                            padding: 16,
-                            borderRadius: 8
-                        },
-                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
-                            style: {
-                                color: 'white',
-                                fontSize: 16,
-                                fontWeight: 'bold'
-                            },
-                            children: "Back to NGO application"
-                        })
-                    })
-                ]
-            })
-        ]
-    });
-};
 var options = {
     tabBarActiveTintColor: '#0069b1',
     tabBarInactiveBackgroundColor: 'white',
@@ -403,7 +363,6 @@ var TabsNavigator = ()=>{
         var route = ref.route;
         return {
             headerShown: false,
-            // tabBarLabel: ({}) => null,
             tabBarIcon: (ref)=>{
                 var focused = ref.focused;
                 return renderIcon({
@@ -421,23 +380,775 @@ var TabsNavigator = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxruntime.jsx)(Tab.Screen, {
                 name: "Services",
-                component: ServicesScreen,
+                component: _screens.ServicesScreen,
                 options: options
             }),
             /*#__PURE__*/ (0, _jsxruntime.jsx)(Tab.Screen, {
                 name: "Home",
-                component: HomeScreen,
+                component: _screens.HomeScreen,
                 options: options
             }),
             /*#__PURE__*/ (0, _jsxruntime.jsx)(Tab.Screen, {
                 name: "Settings",
-                component: SettingsScreen,
+                component: _screens.SettingsScreen,
                 options: options
             })
         ]
     });
 };
 var _default = TabsNavigator;
+
+
+}),
+55166: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "default", ({
+    enumerable: true,
+    get: function() {
+        return _default;
+    }
+}));
+var _interop_require_default = __webpack_require__(99782);
+var _jsxruntime = __webpack_require__(34260);
+var _react = /*#__PURE__*/ _interop_require_default._(__webpack_require__(13668));
+var _reactnative = __webpack_require__(1350);
+var _reactnativesafeareacontext = __webpack_require__(55923);
+var _components = __webpack_require__(38176);
+var _designSystem = __webpack_require__(42729);
+// const HomeScreen = () => {
+//   const navigation = useNavigation();
+//   return (
+//     <SafeAreaView style={{flex: 1, alignItems: 'center'}}>
+//       <View
+//         style={{
+//           marginTop: 10,
+//         }}>
+//         <SvgXml width={200} height={60} xml={HEADER_LOGO} />
+//       </View>
+//       <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+//         <Text
+//           style={{
+//             color: '#0069b1',
+//             fontWeight: 'bold',
+//             fontSize: 25,
+//             marginBottom: 40,
+//             marginHorizontal: 20,
+//             textAlign: 'center',
+//           }}>
+//           {'Hello from Mini App\nHome Screen'}
+//         </Text>
+//         <Text
+//           style={{color: '#000', fontSize: 18, marginBottom: 40, paddingHorizontal: 16, textAlign: 'center'}}>
+//           This is a demo mini app launched from the NGO application, which serves as the Super App (host).
+//         </Text>
+//         <TouchableOpacity
+//           onPress={() => {
+//             navigation.getParent()?.goBack();
+//           }}
+//           style={{backgroundColor: '#e12e55', padding: 16, borderRadius: 8}}>
+//           <Text
+//             style={{
+//               color: 'white',
+//               fontSize: 16,
+//               fontWeight: 'bold',
+//             }}>
+//             Back to NGO application
+//           </Text>
+//         </TouchableOpacity>
+//       </View>
+//     </SafeAreaView>
+//   );
+// };
+var HomeScreen = ()=>{
+    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnativesafeareacontext.SafeAreaView, {
+        children: [
+            /*#__PURE__*/ (0, _jsxruntime.jsx)(_components.Header, {}),
+            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                style: styles.container,
+                children: [
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                        style: styles.title,
+                        children: "\uD83D\uDC4B Welcome to the Demo Mini App!"
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                        style: styles.paragraph,
+                        children: "Explore what's possible with our Super App platform."
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.card,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Loyalty Stamp Card"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.stamps,
+                                children: "\u2615 \u2615 \u2615 \u2610 \u2610"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                                style: styles.button,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                    style: styles.buttonText,
+                                    children: "Stamp"
+                                })
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.View, {
+                        style: styles.banner,
+                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                            style: styles.bannerText,
+                            children: "\uD83D\uDE80 Mini Apps are now supported!"
+                        })
+                    })
+                ]
+            })
+        ]
+    });
+};
+var _default = HomeScreen;
+var styles = _reactnative.StyleSheet.create({
+    container: {
+        padding: 16,
+        backgroundColor: '#fff',
+        flexGrow: 1
+    },
+    title: {
+        fontSize: 20,
+        fontWeight: 'bold',
+        color: _designSystem.PRIMARY,
+        marginBottom: 8
+    },
+    paragraph: {
+        fontSize: 14,
+        marginBottom: 16
+    },
+    card: {
+        backgroundColor: '#f2f2f2',
+        borderRadius: 12,
+        padding: 16,
+        marginVertical: 8
+    },
+    cardTitle: {
+        fontWeight: 'bold',
+        fontSize: 16,
+        marginBottom: 8
+    },
+    button: {
+        marginTop: 8,
+        backgroundColor: _designSystem.ACCENT,
+        padding: 10,
+        borderRadius: 8,
+        alignItems: 'center'
+    },
+    buttonText: {
+        color: 'white',
+        fontWeight: 'bold'
+    },
+    stamps: {
+        fontSize: 28,
+        letterSpacing: 6,
+        marginBottom: 8
+    },
+    banner: {
+        marginTop: 16,
+        padding: 12,
+        backgroundColor: _designSystem.PRIMARY,
+        borderRadius: 8
+    },
+    bannerText: {
+        color: 'white',
+        fontWeight: 'bold',
+        textAlign: 'center'
+    }
+});
+
+
+}),
+51608: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "default", ({
+    enumerable: true,
+    get: function() {
+        return _default;
+    }
+}));
+var _interop_require_default = __webpack_require__(99782);
+var _jsxruntime = __webpack_require__(34260);
+var _react = /*#__PURE__*/ _interop_require_default._(__webpack_require__(13668));
+var _reactnative = __webpack_require__(1350);
+var _reactnativesafeareacontext = __webpack_require__(55923);
+var _components = __webpack_require__(38176);
+var _designSystem = __webpack_require__(42729);
+// const ServicesScreen = () => {
+//   const navigation = useNavigation();
+//   return (
+//     <SafeAreaView style={{flex: 1, alignItems: 'center'}}>
+//       <View
+//         style={{
+//           marginTop: 10,
+//         }}>
+//         <SvgXml width={200} height={60} xml={HEADER_LOGO} />
+//       </View>
+//       <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+//         <Text
+//           style={{
+//             color: '#0069b1',
+//             fontWeight: 'bold',
+//             fontSize: 25,
+//             marginBottom: 40,
+//             marginHorizontal: 20,
+//             textAlign: 'center',
+//           }}>
+//           {'Hello from Mini App\nServices Screen'}
+//         </Text>
+//         <Text
+//           style={{color: '#000', fontSize: 18, marginBottom: 40, paddingHorizontal: 16, textAlign: 'center'}}>
+//           This is a demo mini app launched from the NGO application, which serves as the Super App (host).
+//         </Text>
+//         <TouchableOpacity
+//           onPress={() => {
+//             navigation.getParent()?.goBack();
+//           }}
+//           style={{backgroundColor: '#e12e55', padding: 16, borderRadius: 8}}>
+//           <Text
+//             style={{
+//               color: 'white',
+//               fontSize: 16,
+//               fontWeight: 'bold',
+//             }}>
+//             Back to NGO application
+//           </Text>
+//         </TouchableOpacity>
+//       </View>
+//     </SafeAreaView>
+//   );
+// };
+var ServicesScreen = ()=>{
+    var promotions = [
+        {
+            id: '1',
+            product: 'Espresso',
+            discount: '20%'
+        },
+        {
+            id: '2',
+            product: 'Croissant',
+            discount: '15%'
+        }
+    ];
+    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnativesafeareacontext.SafeAreaView, {
+        children: [
+            /*#__PURE__*/ (0, _jsxruntime.jsx)(_components.Header, {}),
+            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.ScrollView, {
+                contentContainerStyle: styles.container,
+                children: [
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                        style: styles.title,
+                        children: "\uD83D\uDD27 Demo Features"
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.cardAccent,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Gift Card Balance"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TextInput, {
+                                placeholder: "Enter Code",
+                                style: styles.input
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                                style: styles.button,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                    style: styles.buttonText,
+                                    children: "Check"
+                                })
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.cardPrimary,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Lending"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: {
+                                    fontSize: 14
+                                },
+                                children: "Eligible for up to $5,000"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                                style: styles.button,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                    style: styles.buttonText,
+                                    children: "Apply Now"
+                                })
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.cardAccent,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Create Promotion"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: {
+                                    fontSize: 14
+                                },
+                                children: "Product: Espresso"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: [
+                                    styles.cardText,
+                                    {
+                                        fontSize: 14
+                                    }
+                                ],
+                                children: "Discount: 20%"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                                style: styles.button,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                    style: styles.buttonText,
+                                    children: "Generate"
+                                })
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.cardPrimary,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Rewards"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                children: "You have 120 points"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                                style: styles.button,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                    style: styles.buttonText,
+                                    children: "Redeem"
+                                })
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.cardAccent,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Pay Bills"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                children: "Select a service:"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCF1 Mobile"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCA1 Electricity"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCA7 Water"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                                style: styles.button,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                    style: styles.buttonText,
+                                    children: "Proceed"
+                                })
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.FlatList, {
+                        horizontal: true,
+                        data: promotions,
+                        keyExtractor: (item)=>item.id,
+                        contentContainerStyle: {
+                            flexGrow: 0
+                        },
+                        style: {
+                            flexGrow: 0
+                        },
+                        showsHorizontalScrollIndicator: false,
+                        renderItem: (ref)=>{
+                            var item = ref.item;
+                            return /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.View, {
+                                style: styles.listItem,
+                                children: /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.Text, {
+                                    children: [
+                                        item.product,
+                                        " - ",
+                                        item.discount,
+                                        " off"
+                                    ]
+                                })
+                            });
+                        }
+                    })
+                ]
+            })
+        ]
+    });
+};
+var _default = ServicesScreen;
+var styles = _reactnative.StyleSheet.create({
+    container: {
+        padding: 16,
+        backgroundColor: '#fff',
+        flexGrow: 1,
+        paddingBottom: 150
+    },
+    title: {
+        fontSize: 20,
+        fontWeight: 'bold',
+        color: _designSystem.PRIMARY,
+        marginBottom: 8
+    },
+    paragraph: {
+        fontSize: 14,
+        marginBottom: 16
+    },
+    card: {
+        backgroundColor: '#f2f2f2',
+        borderRadius: 12,
+        padding: 16,
+        marginVertical: 8
+    },
+    cardPrimary: {
+        backgroundColor: '#e6f0f9',
+        borderRadius: 12,
+        padding: 16,
+        marginVertical: 8,
+        borderLeftWidth: 4,
+        borderLeftColor: _designSystem.PRIMARY
+    },
+    cardAccent: {
+        backgroundColor: '#fce8ed',
+        borderRadius: 12,
+        padding: 16,
+        marginVertical: 8,
+        borderLeftWidth: 4,
+        borderLeftColor: _designSystem.ACCENT
+    },
+    cardTitle: {
+        fontWeight: 'bold',
+        fontSize: 16,
+        marginBottom: 8
+    },
+    cardText: {
+        marginTop: 5
+    },
+    button: {
+        marginTop: 8,
+        backgroundColor: _designSystem.ACCENT,
+        padding: 10,
+        borderRadius: 8,
+        alignItems: 'center'
+    },
+    buttonText: {
+        color: 'white',
+        fontWeight: 'bold'
+    },
+    stamps: {
+        fontSize: 28,
+        letterSpacing: 6,
+        marginBottom: 8
+    },
+    banner: {
+        marginTop: 16,
+        padding: 12,
+        backgroundColor: _designSystem.PRIMARY,
+        borderRadius: 8
+    },
+    bannerText: {
+        color: 'white',
+        fontWeight: 'bold',
+        textAlign: 'center'
+    },
+    input: {
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 8,
+        padding: 8,
+        marginTop: 4
+    },
+    listItem: {
+        padding: 12,
+        backgroundColor: '#e6e6e6',
+        borderRadius: 8,
+        marginVertical: 4,
+        alignSelf: 'flex-start',
+        flexGrow: 0,
+        width: 200,
+        marginRight: 12
+    },
+    goBackButton: {
+        backgroundColor: _designSystem.PRIMARY,
+        padding: 10,
+        borderRadius: 8,
+        alignItems: 'center',
+        marginTop: 10
+    }
+});
+
+
+}),
+53833: (function (__unused_webpack_module, exports, __webpack_require__) {
+Object.defineProperty(exports, "__esModule", ({
+    value: true
+}));
+Object.defineProperty(exports, "default", ({
+    enumerable: true,
+    get: function() {
+        return _default;
+    }
+}));
+var _interop_require_default = __webpack_require__(99782);
+var _jsxruntime = __webpack_require__(34260);
+var _react = /*#__PURE__*/ _interop_require_default._(__webpack_require__(13668));
+var _reactnative = __webpack_require__(1350);
+var _reactnativesafeareacontext = __webpack_require__(55923);
+var _components = __webpack_require__(38176);
+var _designSystem = __webpack_require__(42729);
+var SettingsScreen = ()=>{
+    return /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnativesafeareacontext.SafeAreaView, {
+        children: [
+            /*#__PURE__*/ (0, _jsxruntime.jsx)(_components.Header, {}),
+            /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.ScrollView, {
+                contentContainerStyle: styles.container,
+                children: [
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                        style: styles.title,
+                        children: "\u2699\uFE0F Settings"
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.card,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "App Info"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "Version: 0.0.1-alpha"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "Updated: May 22, 2025"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.card,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Preferences"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\u2611 Enable Loyalty Stamp Preview"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\u2611 Show Debug Logs"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\u2611 Enable Experimental UI"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\u2611 Auto Update"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\u2611 Enable Biometrics"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.card,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Notifications"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDD14 Push Notifications: Enabled"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCEC Email Updates: Enabled"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCF1 SMS Alerts: Disabled"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.card,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Security"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDD12 Biometric Login: Enabled"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCF1 2FA: Not Set Up"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDD10 App Lock: Enabled"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsxs)(_reactnative.View, {
+                        style: styles.card,
+                        children: [
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardTitle,
+                                children: "Legal"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCC4 Terms of Service"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDD10 Privacy Policy"
+                            }),
+                            /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                                style: styles.cardText,
+                                children: "\uD83D\uDCD8 Open Source Licenses"
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                        style: styles.button,
+                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                            style: styles.buttonText,
+                            children: "Send Feedback"
+                        })
+                    }),
+                    /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.TouchableOpacity, {
+                        style: [
+                            styles.button,
+                            {
+                                backgroundColor: '#999'
+                            }
+                        ],
+                        children: /*#__PURE__*/ (0, _jsxruntime.jsx)(_reactnative.Text, {
+                            style: styles.buttonText,
+                            children: "Log Out"
+                        })
+                    })
+                ]
+            })
+        ]
+    });
+};
+var _default = SettingsScreen;
+var styles = _reactnative.StyleSheet.create({
+    container: {
+        padding: 16,
+        backgroundColor: '#fff',
+        flexGrow: 1,
+        paddingBottom: 150
+    },
+    title: {
+        fontSize: 20,
+        fontWeight: 'bold',
+        color: _designSystem.PRIMARY,
+        marginBottom: 8
+    },
+    paragraph: {
+        fontSize: 14,
+        marginBottom: 16
+    },
+    card: {
+        backgroundColor: '#f2f2f2',
+        borderRadius: 12,
+        padding: 16,
+        marginVertical: 8
+    },
+    cardTitle: {
+        fontWeight: 'bold',
+        fontSize: 16,
+        marginBottom: 8
+    },
+    cardText: {
+        marginTop: 5
+    },
+    button: {
+        marginTop: 8,
+        backgroundColor: _designSystem.ACCENT,
+        padding: 10,
+        borderRadius: 8,
+        alignItems: 'center'
+    },
+    buttonText: {
+        color: 'white',
+        fontWeight: 'bold'
+    },
+    stamps: {
+        fontSize: 28,
+        letterSpacing: 6,
+        marginBottom: 8
+    },
+    banner: {
+        marginTop: 16,
+        padding: 12,
+        backgroundColor: _designSystem.PRIMARY,
+        borderRadius: 8
+    },
+    bannerText: {
+        color: 'white',
+        fontWeight: 'bold',
+        textAlign: 'center'
+    },
+    input: {
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 8,
+        padding: 8,
+        marginTop: 4
+    },
+    listItem: {
+        padding: 12,
+        backgroundColor: '#e6e6e6',
+        borderRadius: 8,
+        marginVertical: 4
+    },
+    goBackButton: {
+        backgroundColor: _designSystem.PRIMARY,
+        padding: 10,
+        borderRadius: 8,
+        alignItems: 'center',
+        marginTop: 10
+    }
+});
 
 
 }),
