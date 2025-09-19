@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6L462FWTU2.com.network.merchant.uae",
+          "6L462FWTU2.com.network.ngeniusone.uae"
+        ],
+        "components": [
+          { "/": "/auth/realms/ni/*",
+            "?": { "key": "*", "execution": "*", "client_id": "*", "tab_id": "*" } }
+        ]
+      }
+    ]
+  }
+}
