@@ -1,0 +1,23 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.network.merchant.uae",
+      "sha256_cert_fingerprints": [
+        "0D:7A:9C:CD:7C:BB:0D:67:D5:92:BA:8D:EA:6C:F2:64:B7:A4:CA:0C:F9:E3:A2:3B:03:96:4F:74:14:B6:B4:A4",
+        "3E:04:A8:78:0D:4E:96:96:D8:B5:CA:F6:47:A9:03:E2:31:38:87:67:8C:90:92:02:51:51:86:22:A2:E8:EA:F4"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.network.ngeniusone.uae",
+      "sha256_cert_fingerprints": [
+        "C0:F1:39:2E:73:C2:14:D0:18:92:9B:97:0F:EE:05:DD:77:EE:34:52:B6:A4:97:0B:F7:79:A9:C5:63:00:AC:E7"
+      ]
+    }
+  }
+]
